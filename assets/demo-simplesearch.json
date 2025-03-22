@@ -7,8 +7,8 @@
       "categories": "",
       "date": "",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner.png')"
+      "url": "https://dieghernan.github.io/test-/",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner.png')"
     } ,
   {
       "title": "Welcome",
@@ -18,8 +18,8 @@
       "categories": "",
       "date": "2020-05-15",
       "tags": "news, bootstrap, jekyll",
-      "url": "https://dieghernan.github.io/chulapa/blog/20200515_welcome",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/chulapa-madrid.jpg')"
+      "url": "https://dieghernan.github.io/test-/blog/20200515_welcome",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/chulapa-madrid.jpg')"
     } ,
   {
       "title": "Plain page",
@@ -29,8 +29,8 @@
       "categories": "demo",
       "date": "2025-03-22",
       "tags": "layout-default, header-base",
-      "url": "https://dieghernan.github.io/chulapa/demo/01-plainpage",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/01-plainpage",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Plain page with image",
@@ -40,8 +40,8 @@
       "categories": "demo",
       "date": "2025-03-22",
       "tags": "layout-default, header-base, image, social-links, tags, categories, bottom-navs",
-      "url": "https://dieghernan.github.io/chulapa/demo/02-plainpage-img",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/02-plainpage-img",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Post header",
@@ -51,8 +51,8 @@
       "categories": "demo",
       "date": "2020-01-01",
       "tags": "layout-default, header-post, social-links, tags, categories, bottom-navs, author, date, random",
-      "url": "https://dieghernan.github.io/chulapa/demo/03-postheader",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/03-postheader",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Landing page",
@@ -62,8 +62,8 @@
       "categories": "demo, landingpage",
       "date": "2020-01-04",
       "tags": "related, layout-landingpage, header-hero, social-links, tags, categories, bottom-navs, date, comments, image, author",
-      "url": "https://dieghernan.github.io/chulapa/demo/05-landinghero",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/05-landinghero",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Use MathJax",
@@ -73,8 +73,8 @@
       "categories": "demo",
       "date": "2020-02-03",
       "tags": "layout-default, header-hero, mathjax, social-links, tags, categories, bottom-navs, date, project-links, comments",
-      "url": "https://dieghernan.github.io/chulapa/demo/04-heroproject",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/04-heroproject",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "A guest author",
@@ -84,8 +84,8 @@
       "categories": "demo, author-guest",
       "date": "2020-02-29",
       "tags": "layout-default, header-splash, social-links, tags, categories, bottom-navs, date, comments, project-links, author, author-guest",
-      "url": "https://dieghernan.github.io/chulapa/demo/06-guestauthor",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/06-guestauthor",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Guest author",
@@ -95,8 +95,8 @@
       "categories": "demo, author-guest",
       "date": "2020-03-01",
       "tags": "layout-default, header-base, social-links, tags, categories, bottom-navs, date, comments, author, author-guest, no-avatar, no-location",
-      "url": "https://dieghernan.github.io/chulapa/demo/07-guestauthor-no-avatar",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/07-guestauthor-no-avatar",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Layout minimal",
@@ -106,8 +106,8 @@
       "categories": "demo, layout",
       "date": "2025-03-22",
       "tags": "layout-minimal, header-splash, image, project-links, bootstrap",
-      "url": "https://dieghernan.github.io/chulapa/demo/08-minimal",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/08-minimal",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Image on header",
@@ -117,8 +117,8 @@
       "categories": "demo, layout",
       "date": "2025-03-22",
       "tags": "layout-default, header-image, image",
-      "url": "https://dieghernan.github.io/chulapa/demo/09-image-header",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/09-image-header",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Plain page with no tags",
@@ -128,8 +128,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/demo/10-plainpage-notags",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/10-plainpage-notags",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Related",
@@ -139,8 +139,8 @@
       "categories": "demo",
       "date": "2022-12-01",
       "tags": "layout-default, header-post, social-links, tags, categories, bottom-navs, author, date, related",
-      "url": "https://dieghernan.github.io/chulapa/demo/11-related",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/11-related",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Related and Random",
@@ -150,8 +150,8 @@
       "categories": "demo",
       "date": "2022-12-01",
       "tags": "layout-default, header-post, social-links, tags, categories, bottom-navs, author, date, related, random",
-      "url": "https://dieghernan.github.io/chulapa/demo/12-related-random",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-demos.png')"
+      "url": "https://dieghernan.github.io/test-/demo/12-related-random",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-demos.png')"
     } ,
   {
       "title": "Installation",
@@ -161,8 +161,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/01-install",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/01-install",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Global settings",
@@ -172,8 +172,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/02-config",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/02-config",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Theming Chulapa",
@@ -183,8 +183,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/03-theming",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/03-theming",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Layouts & Snippets",
@@ -194,8 +194,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/04-layouts",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/04-layouts",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Frequently Asked Questions",
@@ -205,8 +205,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/05-faq",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/05-faq",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Syntax highlighting demo",
@@ -216,8 +216,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/syntax-highlighting",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/syntax-highlighting",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Markdown cheatsheet",
@@ -227,8 +227,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/markdown-cheatsheet",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/markdown-cheatsheet",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Variables dictionary",
@@ -238,8 +238,8 @@
       "categories": "",
       "date": "2025-03-22",
       "tags": "",
-      "url": "https://dieghernan.github.io/chulapa/docs/variable-dictionary",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-docs.png')"
+      "url": "https://dieghernan.github.io/test-/docs/variable-dictionary",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-docs.png')"
     } ,
   {
       "title": "Current skin",
@@ -249,8 +249,8 @@
       "categories": "skins",
       "date": "2015-03-03",
       "tags": "skin, bootstrap, current-theme, header-hero, image",
-      "url": "https://dieghernan.github.io/chulapa/skins/current",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/site/banner-skins.png')"
+      "url": "https://dieghernan.github.io/test-/skins/current",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/site/banner-skins.png')"
     } ,
   {
       "title": "Deeply",
@@ -260,8 +260,8 @@
       "categories": "skins",
       "date": "2015-03-04",
       "tags": "dark-skin, skin, bootstrap, tophat, header-splash, image",
-      "url": "https://dieghernan.github.io/chulapa/skins/deeply",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/deeply.png')"
+      "url": "https://dieghernan.github.io/test-/skins/deeply",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/deeply.png')"
     } ,
   {
       "title": "Hootstrap",
@@ -271,8 +271,8 @@
       "categories": "skins",
       "date": "2015-03-04",
       "tags": "skin, bootstrap, themes-guide, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/hootstrap",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/hootstrap.png')"
+      "url": "https://dieghernan.github.io/test-/skins/hootstrap",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/hootstrap.png')"
     } ,
   {
       "title": "Journal",
@@ -282,8 +282,8 @@
       "categories": "skins",
       "date": "2015-03-05",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/journal",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/journal.png')"
+      "url": "https://dieghernan.github.io/test-/skins/journal",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/journal.png')"
     } ,
   {
       "title": "LUX",
@@ -293,8 +293,8 @@
       "categories": "skins",
       "date": "2015-03-05",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/lux",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/lux.png')"
+      "url": "https://dieghernan.github.io/test-/skins/lux",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/lux.png')"
     } ,
   {
       "title": "Minty",
@@ -304,8 +304,8 @@
       "categories": "skins",
       "date": "2015-03-05",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/minty",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/minty.png')"
+      "url": "https://dieghernan.github.io/test-/skins/minty",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/minty.png')"
     } ,
   {
       "title": "Sketchy",
@@ -315,8 +315,8 @@
       "categories": "skins",
       "date": "2015-03-06",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/sketchy",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/sketchy.png')"
+      "url": "https://dieghernan.github.io/test-/skins/sketchy",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/sketchy.png')"
     } ,
   {
       "title": "Sunset",
@@ -326,8 +326,8 @@
       "categories": "skins",
       "date": "2019-03-07",
       "tags": "skin, bootstrap, tophat, header-splash, image",
-      "url": "https://dieghernan.github.io/chulapa/skins/sunset",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/sunset.png')"
+      "url": "https://dieghernan.github.io/test-/skins/sunset",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/sunset.png')"
     } ,
   {
       "title": "Chulapa skin",
@@ -337,8 +337,8 @@
       "categories": "skins",
       "date": "2019-05-15",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/chulapa",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/chulapa.png')"
+      "url": "https://dieghernan.github.io/test-/skins/chulapa",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/chulapa.png')"
     } ,
   {
       "title": "Twitter",
@@ -348,8 +348,8 @@
       "categories": "skins",
       "date": "2020-02-14",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/twitter",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/twitter.png')"
+      "url": "https://dieghernan.github.io/test-/skins/twitter",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/twitter.png')"
     } ,
   {
       "title": "Graymor",
@@ -359,8 +359,8 @@
       "categories": "skins",
       "date": "2020-03-07",
       "tags": "skin, bootstrap, tophat, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/graymor",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/graymor.png')"
+      "url": "https://dieghernan.github.io/test-/skins/graymor",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/graymor.png')"
     } ,
   {
       "title": "Lymcha",
@@ -370,8 +370,8 @@
       "categories": "skins",
       "date": "2020-03-07",
       "tags": "skin, bootstrap, tophat, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/lymcha",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/lymcha.png')"
+      "url": "https://dieghernan.github.io/test-/skins/lymcha",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/lymcha.png')"
     } ,
   {
       "title": "Preptor",
@@ -381,8 +381,8 @@
       "categories": "skins",
       "date": "2020-03-07",
       "tags": "skin, bootstrap, tophat, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/preptor",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/preptor.png')"
+      "url": "https://dieghernan.github.io/test-/skins/preptor",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/preptor.png')"
     } ,
   {
       "title": "Wandoo",
@@ -392,8 +392,8 @@
       "categories": "skins",
       "date": "2020-03-07",
       "tags": "skin, bootstrap, tophat, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/wandoo",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/wandoo.png')"
+      "url": "https://dieghernan.github.io/test-/skins/wandoo",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/wandoo.png')"
     } ,
   {
       "title": "Twitter Dim",
@@ -403,8 +403,8 @@
       "categories": "skins",
       "date": "2020-03-20",
       "tags": "dark-skin, skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/twitter-dim",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/twitter-dim.png')"
+      "url": "https://dieghernan.github.io/test-/skins/twitter-dim",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/twitter-dim.png')"
     } ,
   {
       "title": "Twitter Lights Out",
@@ -414,8 +414,8 @@
       "categories": "skins",
       "date": "2020-04-20",
       "tags": "dark-skin, skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/twitter-lights-out",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/twitter-lights-out.png')"
+      "url": "https://dieghernan.github.io/test-/skins/twitter-lights-out",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/twitter-lights-out.png')"
     } ,
   {
       "title": "Pear",
@@ -425,8 +425,8 @@
       "categories": "skins",
       "date": "2020-07-22",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/pear",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/pear.png')"
+      "url": "https://dieghernan.github.io/test-/skins/pear",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/pear.png')"
     } ,
   {
       "title": "Towards",
@@ -436,8 +436,8 @@
       "categories": "skins",
       "date": "2021-02-14",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/towards",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/towards.png')"
+      "url": "https://dieghernan.github.io/test-/skins/towards",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/towards.png')"
     } ,
   {
       "title": "Academia",
@@ -447,8 +447,8 @@
       "categories": "skins",
       "date": "2021-03-20",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/academia",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/academia.png')"
+      "url": "https://dieghernan.github.io/test-/skins/academia",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/academia.png')"
     } ,
   {
       "title": "Universal",
@@ -458,8 +458,8 @@
       "categories": "skins",
       "date": "2022-03-07",
       "tags": "skin, bootstrap, dieghernan, header-splash, image",
-      "url": "https://dieghernan.github.io/chulapa/skins/universal",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/universal.png')"
+      "url": "https://dieghernan.github.io/test-/skins/universal",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/universal.png')"
     } ,
   {
       "title": "GitDev Dark",
@@ -469,8 +469,8 @@
       "categories": "skins",
       "date": "2022-03-20",
       "tags": "dark-skin, skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/gitdev-dark",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/gitdev-dark.png')"
+      "url": "https://dieghernan.github.io/test-/skins/gitdev-dark",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/gitdev-dark.png')"
     } ,
   {
       "title": "GitDev",
@@ -480,8 +480,8 @@
       "categories": "skins",
       "date": "2022-03-20",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/gitdev",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/gitdev.png')"
+      "url": "https://dieghernan.github.io/test-/skins/gitdev",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/gitdev.png')"
     } ,
   {
       "title": "Monotone",
@@ -491,8 +491,8 @@
       "categories": "skins",
       "date": "2025-02-10",
       "tags": "skin, tophat, bootstrap, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/monotone",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/monotone.png')"
+      "url": "https://dieghernan.github.io/test-/skins/monotone",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/monotone.png')"
     } ,
   {
       "title": "Minco",
@@ -502,8 +502,8 @@
       "categories": "skins",
       "date": "2025-02-11",
       "tags": "skin, tophat, bootstrap, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/minco",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/minco.png')"
+      "url": "https://dieghernan.github.io/test-/skins/minco",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/minco.png')"
     } ,
   {
       "title": "Electro",
@@ -513,8 +513,8 @@
       "categories": "skins",
       "date": "2025-02-14",
       "tags": "skin, tophat, bootstrap, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/electro",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/electro.png')"
+      "url": "https://dieghernan.github.io/test-/skins/electro",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/electro.png')"
     } ,
   {
       "title": "Mickie",
@@ -524,8 +524,8 @@
       "categories": "skins",
       "date": "2025-02-16",
       "tags": "skin, tophat, bootstrap, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/mickie",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/mickie.png')"
+      "url": "https://dieghernan.github.io/test-/skins/mickie",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/mickie.png')"
     } ,
   {
       "title": "Focal",
@@ -535,8 +535,8 @@
       "categories": "skins",
       "date": "2025-02-20",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/focal",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/focal.png')"
+      "url": "https://dieghernan.github.io/test-/skins/focal",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/focal.png')"
     } ,
   {
       "title": "Skeeblu",
@@ -546,8 +546,8 @@
       "categories": "skins",
       "date": "2025-02-20",
       "tags": "skin, tophat, bootstrap, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/skeeblu",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/skeeblu.png')"
+      "url": "https://dieghernan.github.io/test-/skins/skeeblu",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/skeeblu.png')"
     } ,
   {
       "title": "Cyborg",
@@ -557,8 +557,8 @@
       "categories": "skins",
       "date": "2025-02-21",
       "tags": "dark-skin, skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/cyborg",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/cyborg.png')"
+      "url": "https://dieghernan.github.io/test-/skins/cyborg",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/cyborg.png')"
     } ,
   {
       "title": "Media",
@@ -568,8 +568,8 @@
       "categories": "skins",
       "date": "2025-02-21",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/media",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/media.png')"
+      "url": "https://dieghernan.github.io/test-/skins/media",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/media.png')"
     } ,
   {
       "title": "Darkly",
@@ -579,8 +579,8 @@
       "categories": "skins",
       "date": "2025-02-22",
       "tags": "dark-skin, skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/darkly",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/darkly.png')"
+      "url": "https://dieghernan.github.io/test-/skins/darkly",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/darkly.png')"
     } ,
   {
       "title": "Flatly",
@@ -590,8 +590,8 @@
       "categories": "skins",
       "date": "2025-02-23",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/flatly",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/flatly.png')"
+      "url": "https://dieghernan.github.io/test-/skins/flatly",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/flatly.png')"
     } ,
   {
       "title": "Materia",
@@ -601,8 +601,8 @@
       "categories": "skins",
       "date": "2025-02-24",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/materia",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/materia.png')"
+      "url": "https://dieghernan.github.io/test-/skins/materia",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/materia.png')"
     } ,
   {
       "title": "Solar",
@@ -612,8 +612,8 @@
       "categories": "skins",
       "date": "2025-02-25",
       "tags": "dark-skin, skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/solar",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/solar.png')"
+      "url": "https://dieghernan.github.io/test-/skins/solar",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/solar.png')"
     } ,
   {
       "title": "Slate",
@@ -623,8 +623,8 @@
       "categories": "skins",
       "date": "2025-02-26",
       "tags": "dark-skin, skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/slate",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/slate.png')"
+      "url": "https://dieghernan.github.io/test-/skins/slate",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/slate.png')"
     } ,
   {
       "title": "Listen",
@@ -634,8 +634,8 @@
       "categories": "skins",
       "date": "2025-02-27",
       "tags": "dark-skin, skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/listen",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/listen.png')"
+      "url": "https://dieghernan.github.io/test-/skins/listen",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/listen.png')"
     } ,
   {
       "title": "Butterfly",
@@ -645,8 +645,8 @@
       "categories": "skins",
       "date": "2025-03-01",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/butterfly",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/butterfly.png')"
+      "url": "https://dieghernan.github.io/test-/skins/butterfly",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/butterfly.png')"
     } ,
   {
       "title": "Butterfly Dark",
@@ -656,8 +656,8 @@
       "categories": "skins",
       "date": "2025-03-02",
       "tags": "dark-skin, skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/butterfly-dark",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/butterfly-dark.png')"
+      "url": "https://dieghernan.github.io/test-/skins/butterfly-dark",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/butterfly-dark.png')"
     } ,
   {
       "title": "Butterfly Dim",
@@ -667,8 +667,8 @@
       "categories": "skins",
       "date": "2025-03-03",
       "tags": "dark-skin, skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/butterfly-dim",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/butterfly-dim.png')"
+      "url": "https://dieghernan.github.io/test-/skins/butterfly-dim",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/butterfly-dim.png')"
     } ,
   {
       "title": "United",
@@ -678,8 +678,8 @@
       "categories": "skins",
       "date": "2025-03-04",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/united",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/united.png')"
+      "url": "https://dieghernan.github.io/test-/skins/united",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/united.png')"
     } ,
   {
       "title": "Yeti",
@@ -689,8 +689,8 @@
       "categories": "skins",
       "date": "2025-03-05",
       "tags": "skin, bootstrap, bootswatch, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/yeti",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/yeti.png')"
+      "url": "https://dieghernan.github.io/test-/skins/yeti",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/yeti.png')"
     } ,
   {
       "title": "Navi",
@@ -700,8 +700,8 @@
       "categories": "skins",
       "date": "2025-03-18",
       "tags": "skin, bootstrap, dieghernan, header-splash",
-      "url": "https://dieghernan.github.io/chulapa/skins/navi",
-      "img": ":url('https://dieghernan.github.io/chulapa/assets/img/skinspreview/navi.png')"
+      "url": "https://dieghernan.github.io/test-/skins/navi",
+      "img": ":url('https://dieghernan.github.io/test-/assets/img/skinspreview/navi.png')"
     } 
   
 ]

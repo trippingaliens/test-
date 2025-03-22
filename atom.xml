@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" >
 	<generator uri="https://dieghernan.github.io/chulapa" version="1.0.0">Chulapa</generator>
-	<link href="https://dieghernan.github.io/chulapa/atom.xml" rel="self" type="application/atom+xml" />
-	<link href="https://dieghernan.github.io/chulapa" rel="alternate" type="text/html" />
-	<updated>2025-03-22T19:43:06+01:00</updated>
-	<id>https://dieghernan.github.io/chulapa/atom.xml</id>
+	<link href="https://dieghernan.github.io/test-/atom.xml" rel="self" type="application/atom+xml" />
+	<link href="https://dieghernan.github.io/test-" rel="alternate" type="text/html" />
+	<updated>2025-03-22T23:58:23+01:00</updated>
+	<id>https://dieghernan.github.io/test-/atom.xml</id>
 	<title>Chulapa | A full flexible Jekyll theme</title>
 	<subtitle>A full flexible Jekyll theme</subtitle>
 	<author>
@@ -12,17 +12,17 @@
 		<uri>https://github.com/dieghernan/</uri>			
 	</author>
 	<rights>(c) 2025, dieghernan</rights>
-	<icon>https://dieghernan.github.io/chulapa/assets/img/site/brand-white.png</icon>
-	<logo>https://dieghernan.github.io/chulapa/assets/img/site/banner.png</logo><entry>
+	<icon>https://dieghernan.github.io/test-/assets/img/site/brand-white.png</icon>
+	<logo>https://dieghernan.github.io/test-/assets/img/site/banner.png</logo><entry>
 		<title type="html">Welcome</title>
-		<link href="https://dieghernan.github.io/chulapa/blog/20200515_welcome" rel="alternate" type="text/html" title="Welcome"/>
+		<link href="https://dieghernan.github.io/test-/blog/20200515_welcome" rel="alternate" type="text/html" title="Welcome"/>
 		<published>2020-05-15T00:00:00+02:00</published>
 		<updated>2020-05-15T00:00:00+02:00</updated>
-		<id>https://dieghernan.github.io/chulapa/blog/20200515_welcome</id>
-		<content type="html" xml:base="https://dieghernan.github.io/chulapa/blog/20200515_welcome">
+		<id>https://dieghernan.github.io/test-/blog/20200515_welcome</id>
+		<content type="html" xml:base="https://dieghernan.github.io/test-/blog/20200515_welcome">
 		
   		
-			&lt;img src=&#39;https://dieghernan.github.io/chulapa/assets/img/site/chulapa-madrid.jpg&#39; &gt;
+			&lt;img src=&#39;https://dieghernan.github.io/test-/assets/img/site/chulapa-madrid.jpg&#39; &gt;
 			
 	&lt;p&gt;1 min.&lt;/p&gt;
 			&lt;p&gt;Welcome to &lt;span class=&quot;chulapa&quot;&gt;Chulapa&lt;/span&gt;. This is another Jekyll theme that you can use for creating your site.&lt;/p&gt;
